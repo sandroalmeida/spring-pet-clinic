@@ -4,7 +4,7 @@
 
     <groupId>info.sandroalmeida</groupId>
     <artifactId>spring-pet-clinic</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
 
     <modules>
         <module>pet-clinic-data</module>
@@ -49,7 +49,7 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/sandroalmeida/spring-pet-clinic.git</developerConnection>
-      <tag>spring-pet-clinic-1.0.0</tag>
+      <tag>HEAD</tag>
   </scm>
 
 </project>
