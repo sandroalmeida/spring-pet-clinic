@@ -3,7 +3,7 @@ package info.sandroalmeida.springpetclinic.model;
 /**
  * Created by sandro on 09/01/19
  */
-public class Person {
+public class Person extends BaseEntity{
 
     private String firstName;
     private String lastName;
