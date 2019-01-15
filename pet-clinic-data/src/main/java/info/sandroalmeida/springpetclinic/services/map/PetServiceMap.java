@@ -1,14 +1,14 @@
 package info.sandroalmeida.springpetclinic.services.map;
 
 import info.sandroalmeida.springpetclinic.model.Pet;
-import info.sandroalmeida.springpetclinic.services.CrudService;
+import info.sandroalmeida.springpetclinic.services.PetService;
 
 import java.util.Set;
 
 /**
  * Created by sandro on 14/01/19
  */
-public class PetServiceMap extends AbstractMapService<Pet, Long> implements CrudService<Pet, Long> {
+public class PetServiceMap extends AbstractMapService<Pet, Long> implements PetService {
 
     @Override
     public Set<Pet> findAll() {
