@@ -1,5 +1,14 @@
+/home/sandro/LocalRepository/spring-pet-clinic/pet-clinic-data/src/main/java/info/sandroalmeida/springpetclinic/services/PetService.java
+/home/sandro/LocalRepository/spring-pet-clinic/pet-clinic-data/src/main/java/info/sandroalmeida/springpetclinic/services/VetService.java
+/home/sandro/LocalRepository/spring-pet-clinic/pet-clinic-data/src/main/java/info/sandroalmeida/springpetclinic/model/Pet.java
+/home/sandro/LocalRepository/spring-pet-clinic/pet-clinic-data/src/main/java/info/sandroalmeida/springpetclinic/services/map/PetServiceMap.java
+/home/sandro/LocalRepository/spring-pet-clinic/pet-clinic-data/src/main/java/info/sandroalmeida/springpetclinic/model/BaseEntity.java
+/home/sandro/LocalRepository/spring-pet-clinic/pet-clinic-data/src/main/java/info/sandroalmeida/springpetclinic/model/PetType.java
+/home/sandro/LocalRepository/spring-pet-clinic/pet-clinic-data/src/main/java/info/sandroalmeida/springpetclinic/services/OwnerService.java
+/home/sandro/LocalRepository/spring-pet-clinic/pet-clinic-data/src/main/java/info/sandroalmeida/springpetclinic/services/map/AbstractMapService.java
 /home/sandro/LocalRepository/spring-pet-clinic/pet-clinic-data/src/main/java/info/sandroalmeida/springpetclinic/model/Person.java
 /home/sandro/LocalRepository/spring-pet-clinic/pet-clinic-data/src/main/java/info/sandroalmeida/springpetclinic/model/Vet.java
-/home/sandro/LocalRepository/spring-pet-clinic/pet-clinic-data/src/main/java/info/sandroalmeida/springpetclinic/model/Pet.java
+/home/sandro/LocalRepository/spring-pet-clinic/pet-clinic-data/src/main/java/info/sandroalmeida/springpetclinic/services/CrudService.java
+/home/sandro/LocalRepository/spring-pet-clinic/pet-clinic-data/src/main/java/info/sandroalmeida/springpetclinic/services/map/OwnerServiceMap.java
 /home/sandro/LocalRepository/spring-pet-clinic/pet-clinic-data/src/main/java/info/sandroalmeida/springpetclinic/model/Owner.java
-/home/sandro/LocalRepository/spring-pet-clinic/pet-clinic-data/src/main/java/info/sandroalmeida/springpetclinic/model/PetType.java
+/home/sandro/LocalRepository/spring-pet-clinic/pet-clinic-data/src/main/java/info/sandroalmeida/springpetclinic/services/map/VetServiceMap.java

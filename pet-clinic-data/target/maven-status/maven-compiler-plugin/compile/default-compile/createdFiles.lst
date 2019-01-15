@@ -1,5 +1,14 @@
+info/sandroalmeida/springpetclinic/services/map/OwnerServiceMap.class
+info/sandroalmeida/springpetclinic/services/map/PetServiceMap.class
+info/sandroalmeida/springpetclinic/services/CrudService.class
+info/sandroalmeida/springpetclinic/services/VetService.class
 info/sandroalmeida/springpetclinic/model/PetType.class
 info/sandroalmeida/springpetclinic/model/Vet.class
 info/sandroalmeida/springpetclinic/model/Owner.class
-info/sandroalmeida/springpetclinic/model/Person.class
+info/sandroalmeida/springpetclinic/services/map/AbstractMapService.class
+info/sandroalmeida/springpetclinic/services/PetService.class
+info/sandroalmeida/springpetclinic/services/OwnerService.class
 info/sandroalmeida/springpetclinic/model/Pet.class
+info/sandroalmeida/springpetclinic/model/Person.class
+info/sandroalmeida/springpetclinic/model/BaseEntity.class
+info/sandroalmeida/springpetclinic/services/map/VetServiceMap.class
