@@ -12,7 +12,7 @@ import java.util.Set;
  * Created by sandro on 14/01/19
  */
 @Service
-public class VetServiceMap extends AbstractMapService<Vet, Long> implements VetService {
+public class VetServiceMap extends AbstractServiceMap<Vet, Long> implements VetService {
 
     private final SpecialityService specialityService;
 
