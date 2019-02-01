@@ -2,6 +2,7 @@ package info.sandroalmeida.springpetclinic.services.map;
 
 import info.sandroalmeida.springpetclinic.model.PetType;
 import info.sandroalmeida.springpetclinic.services.PetTypeService;
+import org.springframework.context.annotation.Profile;
 import org.springframework.stereotype.Service;
 
 import java.util.Set;
@@ -9,7 +10,9 @@ import java.util.Set;
 /**
  * Created by sandro on 21/01/19
  */
+
 @Service
+@Profile({"default", "map"})
 public class PetTypeServiceMap extends AbstractServiceMap<PetType, Long> implements PetTypeService {
 
     @Override
