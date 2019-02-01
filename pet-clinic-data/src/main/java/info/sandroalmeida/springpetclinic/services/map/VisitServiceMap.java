@@ -2,12 +2,15 @@ package info.sandroalmeida.springpetclinic.services.map;
 
 import info.sandroalmeida.springpetclinic.model.Visit;
 import info.sandroalmeida.springpetclinic.services.VisitService;
+import org.springframework.stereotype.Service;
 
 import java.util.Set;
 
 /**
  * Created by sandro on 31/01/19
  */
+
+@Service
 public class VisitServiceMap extends AbstractServiceMap<Visit, Long> implements VisitService {
 
     @Override
